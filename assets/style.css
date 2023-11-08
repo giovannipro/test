@@ -35,3 +35,7 @@ p {
     height: 30rem;
     font-family: sans-serif;
 }
+
+#myMap iframe html body {
+    font-family: "Times New Roman", serif !important;
+}
